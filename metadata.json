@@ -1,0 +1,6 @@
+{
+  "name": "RapidQuote Commercial Tool",
+  "description": "A single-page application for streamlined lead generation and quotation creation. Field agents can quickly submit new leads, and the quotation team can build and calculate detailed quotes from a predefined product list.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
